@@ -74,8 +74,7 @@ $Text = "✅ Transaction finished!
 📝 ToDay : $roz
 📌 Date : $tarikh
 ✨ Portal : Mellat
--------------- $bankinfo[1] --------------
-";
+-------------- $bankinfo[1] --------------";
     
 $Text .="$bankinfo[0]";
 
